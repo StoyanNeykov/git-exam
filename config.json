@@ -1,5 +1,12 @@
-{
+[
+  {
   "version": "2.0",
   "authentication": true,
   "dashboard": false
-}
+  },
+  {
+  "version": "2.1",
+  "authentication": true,
+  "dashboard": false
+  }
+]
