@@ -1,5 +1,5 @@
 {
   "version": "1.0",
-  "authentication": false,
+  "authentication": true,
   "dashboard": true
 }
