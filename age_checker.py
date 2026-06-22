@@ -6,15 +6,11 @@ def is_adult(age: int) -> bool:
 def main():
     age = int(input("Enter age: "))
 
-
-
     if is_adult(age):
         print("Person is 18 or older.")
 
-        
     else:
         print("Person is under 18.")
-
 
 
 if __name__ == "__main__":
