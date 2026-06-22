@@ -1,1 +1,1 @@
-Console.WriteLine("Critical Bug")
+Console.Writeline("Hello world");
