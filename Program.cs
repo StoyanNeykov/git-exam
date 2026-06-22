@@ -1,1 +1,1 @@
-Console.Writeline("Hello Varna Moreto Sinite Valni");
+Console.Writeline("Hello Varna Moreto");
